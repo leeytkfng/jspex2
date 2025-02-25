@@ -12,7 +12,7 @@
     <style>
         .footer {
             text-align: center;
-            padding: 0;
+            padding: 10px;
             position: fixed;
             bottom: 0;
             width: 100%;

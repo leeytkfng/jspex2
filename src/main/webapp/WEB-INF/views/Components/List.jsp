@@ -16,6 +16,10 @@
 
     </style>
 </head>
+<div class="container-sm d-flex justify-content-center align-items-center">
+    <img src="${pageContext.request.contextPath}/images/post1.jpg" alt="Image" style="width: 700px; height: 350px" class="img-fluid"/>
+</div>
+
 <body class="container-sm">
 <h3 class="mt-5 text-center" style="font-weight:bold">BLog List</h3>
 <table class="table table-striped table-bordered table-hover">
